@@ -1,12 +1,12 @@
 # About me:
 
-## **_My company_**
+## **_My companies_**
 
-I currently run multiple companies (Curtis Tech Solutions LLC, Amy AI, and ERPros), and specialize in full stack software engineering. This includes backends, infrastructure (both small businesses and enterprise), automation, AI for loosely formatted data, custom greenfield software development, etc... You name it, I've probably built something with it, or at least know someone who is an expert.
+I currently run multiple companies (Curtis Tech Solutions LLC, Amy AI, and Expert ERP LLC). We specialize in full stack software engineering. This includes backend, infrastructure (both small businesses and enterprise), automation, AI for loosely formatted data, custom greenfield software development, etc... You name it, I've probably built something with it, or at least know someone who is an expert.
 
 Want to hire us? Send me an email, and we'll set up an introductory call.
 
-I'm also scaling up operations, and if you're interested in working for CTS, Amy AI, or ERPros, send me an email at [mason@curtistechsolutions.com](mail:mason@curtistechsolutions.com).
+I'm also scaling up operations, and if you're interested in working for CTS, Amy AI, or Expert ERP, send me an email at [mason@curtistechsolutions.com](mail:mason@curtistechsolutions.com).
 
 ## **_Me_**
 
